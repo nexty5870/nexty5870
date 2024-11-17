@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I'm currently working on practicing React/JS side project: [IconGen](https://icongen.io)<br>👯 I'm looking for any Collaboration in the open source world<br>🤔 I'm currently looking to sharpen my skillset and learn new technology<br>🌱 Currently learning React<br>💬 Ask me about anything related to Ops/DevOps, 3D printing and electronics!<br>⚡ Fun fact, for 2 years I had my own Drone racing production eshop, from design idea & CAD to CNC production in the workshop, to building service and customer care, it was a great journey and I learned so much!
+🔭 I'm currently working on practicing React/JS side project: [IconGen](https://icongen.io)<br>👯 I'm looking for any Collaboration in the open source world<br>🤔 I'm currently looking to sharpen my skillset and learn new technology<br>🌱 Vibing Flowgrammer <br>💬 Ask me about anything related to Ops/DevOps, 3D printing and electronics!<br>⚡ Fun fact, for 2 years I had my own Drone racing production eshop, from design idea & CAD to CNC production in the workshop, to building service and customer care, it was a great journey and I learned so much!
 
 ## 🌐 Socials, you can reach me 👇:
 
