@@ -1,6 +1,10 @@
-# 💫 About Me:
+  # 💫 About Me:
 
-🔭 I'm currently working on practicing React/JS side project: [IconGen](https://icongen.io)<br>👯 I'm looking for any Collaboration in the open source world<br>🤔 I'm currently looking to sharpen my skillset and learn new technology<br>🌱 Vibing Flowgrammer <br>💬 Ask me about anything related to Ops/DevOps, 3D printing and electronics!<br>⚡ Fun fact, for 2 years I had my own Drone racing production eshop, from design idea & CAD to CNC production in the workshop, to building service and customer care, it was a great journey and I learned so much!
+  🤖 **AI Strategist & Engineer** building intelligent automation systems
+  for businesses at [MakeAutomation](https://makeautomation.co)<br>🏗️ Currently architecting AI infrastructure and automation workflows using TypeScript, Claude Code, and modern web frameworks<br>🎯 Running the AI Automation Guild - teaching others how to build practical AI systems that actually solve problems<br>🛠️ Deep expertise in **AI Agent Development**, **MCP Servers**, **Process Automation**, and **Full-Stack Development**<br>💬 Talk to me about AI architecture, automation workflows, TypeScript, or building with Claude/LLMs<br>
+  ⚡ Past life: Built and ran a drone racing production company from CAD design → CNC manufacturing → customer support. Learned more running that business than any course could teach.
+
+  **Currently building:** Personal AI Infrastructure (PAI) systems, AI automation tools, and exploring the intersection of AI agents and real  business problems.
 
 ## 🌐 Socials, you can reach me 👇:
 
